@@ -10,12 +10,12 @@ __pycache__/
 venv/
 
 # Data, caches, and generated outputs
-data/
-cache/
-features/
-output/
-outputs/
-split_info_4clf/
+/data/
+/cache/
+/features/
+/output/
+/outputs/
+/split_info_4clf/
 *.csv
 *.tsv
 *.xlsx
