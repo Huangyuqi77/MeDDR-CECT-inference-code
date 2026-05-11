@@ -1,0 +1,48 @@
+# Local configuration
+configs/paths.yaml
+*.env
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data, caches, and generated outputs
+data/
+cache/
+features/
+output/
+outputs/
+split_info_4clf/
+*.csv
+*.tsv
+*.xlsx
+*.nii
+*.nii.gz
+*.nrrd
+*.dcm
+
+# Model artifacts
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Manuscript and rendered artifacts
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc

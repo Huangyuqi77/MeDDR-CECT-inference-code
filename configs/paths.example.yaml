@@ -1,0 +1,10 @@
+# Copy this file to configs/paths.yaml and replace every path with a local path.
+# Do not commit configs/paths.yaml if it contains private paths.
+
+output_root: /path/to/generated/output/plc_radiomics
+feature_cache_root: /path/to/cache/radiomics
+split_root: /path/to/split_info_4clf
+registered_mask_cache_root: /path/to/registered/masks
+
+internal_root: /path/to/internal/cohort/root
+external_root: /path/to/external/cohort/root
