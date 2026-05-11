@@ -7,6 +7,10 @@ This repository contains the curated code release for the MeDDR manuscript:
 The release is intentionally code-only. It does not include raw CT images, masks,
 feature tables, result CSVs, trained model artifacts, manuscript PDFs, or caches.
 
+Public repository:
+
+https://github.com/Huangyuqi77/MeDDR-CECT-inference-code
+
 ## Contents
 
 - `src/features/enhancement_surrogates.py`: mechanism-guided multiphase
